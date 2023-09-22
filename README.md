@@ -2,12 +2,6 @@
 
 💡🔧 **Automating the future, one line of code at a time! 💻 Driven by passion ❤️, fueled by an entrepreneurial spirit 🚀 – turning manual tasks 📝 into a thing of the past 🌌.** 🔥🎉
 
-## 🎓 **Education**
-- 🏫 **B.Tech - Electrical and Electronics**
-  - **Institution**: SRKR ENGINEERING COLLEGE, Bhimavaram, Andhra Pradesh
-  - 🗓 **Period**: 2015 - 2019
-  - 🏆 **Achievements**: Graduated with a stellar GPA of 7.56, actively participated in AEE, and contributed to the Student Welfare Program.
-
 ## 💼 **Professional Experience**
 - 🌟 **Senior Program Mentor** at **NxtWave**, Hyderabad (April 2022 - Present)
   - 💡 Crafted an online IDE for Node & React.
