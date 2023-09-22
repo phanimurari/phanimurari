@@ -36,7 +36,7 @@ Hello there! I'm Phani, an innovative Senior Program Mentor at NxtWave and a Sof
 - **Gyan Dashboard**:
   - A state-of-the-art web application revolutionizing query resolutions.
   - **Technologies**: ReactJS, Mobx, TailwindCSS, styled-components
-  - [Check it out here!](https://phanimurari.github.io/gyan-platform-deploy)
+  - [Check it out here!](https://phanimurari.github.io/gyan-platform-deploy/#/home)
   - [Source Code](https://github.com/phanimurari/gyan-platform-deploy)
 
 ## 🌐 **Connect with Me**
