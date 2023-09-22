@@ -36,4 +36,3 @@
 ## 🌐 **Connect with Me**
 - [🔗 LinkedIn](https://linkedin.com/in/phanimurari)
 - [✉️ Email](mailto:murari.phani1@gmail.com)
-- 📞 9666774338
